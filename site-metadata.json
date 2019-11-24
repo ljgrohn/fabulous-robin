@@ -2,8 +2,8 @@
   "title": "Stackbit Azimuth Theme",
   "palette": "orange",
   "header": {
-    "title": "Azimuth",
-    "logo_img": "images/logo.png",
+    "title": "Listing Launchpad",
+    "logo_img": "",
     "has_nav": true,
     "menu": {
       "actions": [
