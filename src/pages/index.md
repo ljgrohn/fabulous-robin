@@ -9,7 +9,7 @@ sections:
       who need a sleek, modern PaaS site. 
     image: images/hero.png
     section_id: hero
-    title: Welcome To Your New Listing Marketing Team
+    title: Your Listing Marketing Team
     type: section_hero
   - bg: gray
     featureslist:
