@@ -21,7 +21,7 @@
     "social_title": "Community",
     "tagline": "Your Teams Marketing Team",
     "logo_img": "images/logo_alt.png",
-    "has_social": true,
+    "has_social": false,
     "content": "&copy; Listing Launchpad (2019). All rights reserved.",
     "links": [
       {
