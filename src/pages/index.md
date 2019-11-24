@@ -5,11 +5,11 @@ sections:
       - label: Learn More
         url: /features
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern PaaS site. 
+      Here at Listing Launchpad our job is to make you look like a marketing
+      genius to your clients and get their homes sold faster.
     image: images/hero.png
     section_id: hero
-    title: Your Listing Marketing Team
+    title: Marketing Team For Your Listings
     type: section_hero
   - bg: gray
     featureslist:
